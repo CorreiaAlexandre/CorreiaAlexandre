@@ -1,7 +1,7 @@
 ### Oi, Seja bem vindo! 👋
 
-- 🔭 trabalhando na ....
-- 🌱 Estudando Sistema da Informacao e Salesforce 
+- 💼 trabalhando na ....
+- 📚 Estudando Sistema da Informacao e Salesforce 
 
  <div>
   <a href="https://github.com/rafaballerini">
