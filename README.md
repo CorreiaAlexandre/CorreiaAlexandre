@@ -2,7 +2,7 @@
 
 - 💼 trabalhando na ....
 - 📚 Estudando 
-analise e Desenvolvimento de Sistema e Salesforce 
+Analise e Desenvolvimento de Sistema e Salesforce 
 
  <div>
   <a href="https://github.com/rafaballerini">
