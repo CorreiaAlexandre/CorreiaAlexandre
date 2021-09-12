@@ -1,7 +1,8 @@
 ### Oi, Seja bem vindo! 👋
 
 - 💼 trabalhando na ....
-- 📚 Estudando Sistema da Informacao e Salesforce 
+- 📚 Estudando 
+analise e Desenvolvimento de Sistema e Salesforce 
 
  <div>
   <a href="https://github.com/rafaballerini">
