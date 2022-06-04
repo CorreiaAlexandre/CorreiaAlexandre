@@ -2,7 +2,7 @@
 
 - 💼 trabalhando na Accenture
 - 📚 Estudando 
-Analise e Desenvolvimento de Sistema e Salesforce 
+Analise e Desenvolvimento de Sistema.
 
  <div>
   <a href="https://github.com/CorreiaAlexandre">
