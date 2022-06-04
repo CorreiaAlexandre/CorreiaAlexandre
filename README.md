@@ -14,6 +14,7 @@ Analise e Desenvolvimento de Sistema e Salesforce
   
   <a href="https://instagram.com/alexandrepingitore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-correia-02428a1b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/alexandre-correia-02428a1b4" target="_blank"><img src="https://img.shields.io/badge/-Python-%230077B5?style=for-the-badge&logo=Python&logoColor=white" target="_blank"></a> 
   <a href="https://trailblazer.me/id/alepingitore" target="_blank"><img src="https://img.shields.io/badge/-Salesforce-%230077B5?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@alepingitore"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
