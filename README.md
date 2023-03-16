@@ -4,4 +4,6 @@
 - 📚 Estudando 
 Analise e Desenvolvimento de Sistema.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CorreiaAlexandre)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CorreiaAlexandre&layout=compact)](https://github.com/CorreiaAlexandre/github-readme-stats)
+
