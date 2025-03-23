@@ -1,6 +1,6 @@
 ### Olá, Seja bem vindo! 
 
-Em 2021, decidi migrar para a área de TI em busca de novos desafios e aprendizado constante nesse campo dinâmico. O que me impulsiona na vida e na carreira é o amor pelos meus filhos, guiando minhas decisões com o desejo de proporcionar a eles um futuro seguro e cheio de oportunidades. Ser pai me ensinou resiliência, curiosidade e otimismo, valores que aplico diariamente em minha jornada profissional. Meu objetivo é construir um legado, tanto para meus filhos quanto para a sociedade, mostrando que com integridade e trabalho duro, sonhos podem se tornar realidade.
+Em 2021, migrei da educação física para a área de tecnologia em busca de aprendizado e inovação. Tenho experiência em Salesforce & Cloud Computing, atuando no desenvolvimento de soluções no Salesforce Service Cloud e otimização de processos. Atualmente, estou me dedicando ao aprimoramento profissional por meio de certificações e estudos contínuos em Salesforce, AWS e Inteligência Artificial, já conquistando 7 Superbadges. Busco oportunidades para aplicar meu conhecimento e contribuir com soluções tecnológicas eficientes. Sou um bom ouvinte, sempre aberto a novas ideias e desafios. Gosto de contribuir com soluções criativas, mantendo um bom humor e uma atitude colaborativa no dia a dia. Tenho foco em entregar minhas tarefas com eficiência e agilidade, garantindo tempo hábil para ajustes e melhorias quando necessário. E quando não sei algo, busco aprender rapidamente para encontrar a melhor solução.
 
 ## Estatísticas no GitHub.
 
