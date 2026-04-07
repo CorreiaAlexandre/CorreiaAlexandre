@@ -7,7 +7,7 @@ Em 2021, migrei da educação física para a área de tecnologia em busca de apr
 <a href="https://github.com/CorreiaAlexandre">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correiaalexandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/andrewhomero">
+<a href="https://github.com/CorreiaAlexandre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correiaalexandre&layout=compact&langs_count=16&theme=dracula" />
 </a>
 
