@@ -4,17 +4,17 @@ Em 2021, migrei da educação física para a área de tecnologia em busca de apr
 
 ## Estatísticas no GitHub.
 
-<a href="https://github.com/CorreiaAlexandre">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=correiaalexandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/CorreiaAlexandre">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=correiaalexandre&layout=compact&langs_count=16&theme=dracula" />
 </a>
 
 <div> 
   
    <a href="https://www.linkedin.com/in/alexandre-correia-02428a1b4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/alexandrepingitore" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/aprof.alexandrecorreia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:alepingitore@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
